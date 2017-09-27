@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jianliu's homepage
 
 You can use the [editor on GitHub](https://github.com/jianliu2006/jianliu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
